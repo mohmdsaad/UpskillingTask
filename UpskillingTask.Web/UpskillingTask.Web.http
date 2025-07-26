@@ -1,0 +1,6 @@
+@UpskillingTask.Web_HostAddress = http://localhost:5113
+
+GET {{UpskillingTask.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
